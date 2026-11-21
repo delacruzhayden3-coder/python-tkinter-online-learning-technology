@@ -1,8 +1,8 @@
 # Online Learning Technology Quiz
 
 Name: Miel Hayden D. Gabad
-Section: BSINFOTECH SE 3-A 
-Topic: Online Learning Technology
+ Section: BSINFOTECH SE 3-A 
+ Topic: Online Learning Technology
 
 ## Project Overview
 This is a desktop multiple-choice quiz application made with Python and Tkinter. It helps learners review online learning platforms, virtual classes, digital citizenship, internet safety, and effective online study practices.
