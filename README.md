@@ -1,7 +1,7 @@
 # Online Learning Technology Quiz
 
-**Name:** Your Name  
-**Section:** Your Section  
+**Name:** Miel Hayden D. Gabad
+**Section:** BSINFOTECH SE 3-A 
 **Topic:** Online Learning Technology
 
 ## Project Overview
